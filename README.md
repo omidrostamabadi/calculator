@@ -8,5 +8,5 @@ operators
 
 ## Run
 ```
-make
+make [YourProgramName]
 ```
