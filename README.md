@@ -10,3 +10,9 @@ operators
 ```
 make [YourProgramName]
 ```
+
+## Clean
+use command bellow to clean your repository directory from executable files.
+```
+make clean
+```
